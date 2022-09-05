@@ -1,5 +1,10 @@
 # Just Hungry
 
+## Overview
+
+Using passive replication had to create a fault tolerant distributed system for a food ordering system.
+
+![Screenshot from 2020-03-13 07-55-15](https://user-images.githubusercontent.com/30124151/188409656-66dd0bae-afac-4e64-b481-1fb2d3aabff5.png)
 
 
 ## Installation
